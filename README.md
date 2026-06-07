@@ -6,8 +6,9 @@ Comparative Analysis of NiZn Ferrite Core Geometries Across 45–870 MHz
 
 ## Authors
 Emmanuel Keith Hadipradja, Shafiya Ramadhani Kanata, 
-Melisa Lea Andrea, Livia Janice Widiapradja  
-Bina Nusantara University, Bandung, Indonesia
+Melisa Lea Andrea, Livia Janice Widiapradja*  
+Bina Nusantara University, Bandung, Indonesia  
+*Corresponding author: livia.widiapradja@binus.ac.id
 
 ## File Description
 TLT_Combiner_S21_Simulation_Data.xlsx  
