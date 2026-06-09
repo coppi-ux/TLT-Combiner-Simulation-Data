@@ -5,8 +5,8 @@ A Low-Loss Wideband 4:1 Toroidal TLT Combiner for Passive Radar:
 Comparative Analysis of NiZn Ferrite Core Geometries Across 45–870 MHz
 
 ## Authors
-Emmanuel Keith Hadipradja, Shafiya Ramadhani Kanata, 
-Melisa Lea Andrea, Livia Janice Widiapradja*  
+Shafiya Ramadhani Kanata, Melisa Lea Andrea,
+Emmanuel Keith Hadipradja, Livia Janice Widiapradja*  
 Bina Nusantara University, Bandung, Indonesia  
 *Corresponding author: livia.widiapradja@binus.ac.id
 
